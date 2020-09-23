@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="3componentes.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="4.7335285 : 189.79853 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="166.36466 : 199.27035 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective844" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="265.23665"
+     inkscape:cy="589.15873"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g893"
+       transform="translate(-3.7967413,41.784894)">
+      <path
+         style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 93.680395,49.73344 108.49707,61.904284 V 105.61902 H 64.782339 L 49.965662,93.448173 V 49.73344 Z"
+         id="path14" />
+      <path
+         id="rect10"
+         style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 49.965664,49.73344 h 43.714733 m 0,43.714734 H 49.965664 m 0,0 V 49.73344 m 43.714733,0 v 43.714734 l 14.816673,12.170846"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         id="rect12"
+         style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 64.782341,61.904285 h 43.714729 m 0,0 v 43.714735 m 0,0 H 64.782341 m 0,0 V 61.904285"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         style="fill:#ff0000;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 49.965662,49.73344 64.782339,61.904284"
+         id="path16" />
+    </g>
+    <g
+       id="g887"
+       transform="translate(-46.255104,31.642214)">
+      <rect
+         style="fill:#008000;stroke:#000000;stroke-width:1.04545;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect874"
+         width="23.954548"
+         height="53.954552"
+         x="139.50662"
+         y="96.024513" />
+      <ellipse
+         style="fill:#008000;stroke:#000000;stroke-width:1.0918;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path880"
+         cx="151.4839"
+         cy="95.474632"
+         rx="11.954102"
+         ry="2.6364019" />
+      <ellipse
+         style="fill:#008000;stroke:#000000;stroke-width:1.0918;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse882"
+         cx="151.4839"
+         cy="150.56168"
+         rx="11.954102"
+         ry="2.6364019" />
+    </g>
+    <circle
+       style="fill:#0000ff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path895"
+       cx="125.25565"
+       cy="120.19916"
+       r="24.634893" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.241161"
+       y="14.701062"
+       id="text917"><tspan
+         sodipodi:role="line"
+         id="tspan915"
+         x="11.241161"
+         y="14.701062"
+         style="stroke-width:0.264583">Milton Carlos Katoo - 31010005290</tspan></text>
+  </g>
+</svg>
